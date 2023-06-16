@@ -23,7 +23,7 @@ sections:
           url: https://appgallery.huawei.com/#/app/C101779423
   - infobar:
       title: Quicktour
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: <iframe allowfullscreen="true" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         frameborder="0" src="https://www.youtube.com/embed/W1bxtVwuZr0"
         height="360" width="100%"></iframe>
