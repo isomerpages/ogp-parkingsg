@@ -10,7 +10,7 @@ sections:
       title: Parking.sg
       subtitle: Pay for parking using your mobile devices at all coupon parking
         carparks. A collaboration between GovTech, URA and HDB
-      background: /images/hero-banner.png
+      background: /images/hero_small copy.jpg
       key_highlights:
         - title: app store
           description: Download
@@ -27,4 +27,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
