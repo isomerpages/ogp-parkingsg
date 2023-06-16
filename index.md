@@ -47,4 +47,13 @@ sections:
         calculated on a per minute basis will be given.
       image: /images/refund_clear.png
       alt: Image alt text
+  - infobar:
+      title: Contact us
+      description: To provide feedback on the app, please email us at
+        feedback@parking.sg. The feedback link is also available through the
+        app.
+      button: email us
+      url: mailto:feedback@parking.sg?&body=For bug reports and app issues, please be
+        as descriptive and detailed as possible (include screenshots or error
+        messages if any).
 ---
