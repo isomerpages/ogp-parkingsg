@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1hgt4fk8d9v5d.amplifyapp.com
 prod: https://master.d1hgt4fk8d9v5d.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/parking-logo-with-name.svg
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
