@@ -12,15 +12,15 @@ sections:
         carparks. A collaboration between GovTech, URA and HDB
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: app store
+          description: Download
+          url: https://itunes.apple.com/vn/app/parking-sg/id1286602494?mt=8
+        - title: google play
+          description: Download
+          url: https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en
+        - title: app gallery
+          description: Download
+          url: https://appgallery.huawei.com/#/app/C101779423
   - infobar:
       title: Infobar title
       subtitle: Subtitle
