@@ -1,20 +1,20 @@
 title: Parking.sg
 url: https://parking.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/parking-logo-2.ico
 colors:
   primary-color: "#215392"
-  secondary-color: "#4372d6"
+  secondary-color: "#215392"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#215392"
     - title: media-color-two
       color: "#215392"
     - title: media-color-three
-      color: "#00838f"
+      color: "#215392"
     - title: media-color-four
-      color: "#00838f"
+      color: "#215392"
     - title: media-color-five
-      color: "#00838f"
+      color: "#215392"
 description: Pay for parking using your mobile devices at all coupon parking car parks.
 permalink: none
 baseurl: ""
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1hgt4fk8d9v5d.amplifyapp.com
 prod: https://master.d1hgt4fk8d9v5d.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/parking-logo-with-name.svg
+shareicon: /images/parking-logo-with-name-2.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
