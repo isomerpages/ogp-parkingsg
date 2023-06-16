@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Parking.sg
+description: Pay for parking using your mobile devices at all coupon parking car parks.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
