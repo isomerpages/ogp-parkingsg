@@ -28,9 +28,10 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
+      title: Calculate fees automatically
       subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Parking.sg replaces parking coupons. Enter your vehicle number,
+        select car park, and duration. Charges are calculated automatically and
+        paid via card payment.
       alt: Image alt text
 ---
