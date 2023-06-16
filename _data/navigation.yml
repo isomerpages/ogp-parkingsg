@@ -1,8 +1,4 @@
 logo: /images/parking-logo-with-name-2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Faq
     collection: faq
