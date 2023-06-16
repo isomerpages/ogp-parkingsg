@@ -2,7 +2,7 @@
 layout: homepage
 title: Parking.sg
 description: Pay for parking using your mobile devices at all coupon parking car parks.
-image: /images/isomer-logo.svg
+image: /images/parking-logo-with-name.svg
 permalink: /
 notification: ""
 sections:
