@@ -4,4 +4,4 @@ permalink: /faq/
 ---
 ### **FAQ**
 
-1. Please visit https://ask.gov.sg/parkingsg
+1. Please visit [https://ask.gov.sg/parkingsg](https://ask.gov.sg/parkingsg)
