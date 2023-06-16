@@ -22,11 +22,11 @@ sections:
           description: Download
           url: https://appgallery.huawei.com/#/app/C101779423
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Quicktour
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        frameborder="0" src="https://www.youtube.com/embed/W1bxtVwuZr0"
+        height="315" width="560"></iframe>
   - infopic:
       title: Calculate fees automatically
       description: Parking.sg replaces parking coupons. Enter your vehicle number,
