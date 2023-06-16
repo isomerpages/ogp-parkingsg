@@ -29,9 +29,22 @@ sections:
       url: /faq/
   - infopic:
       title: Calculate fees automatically
-      subtitle: Infopic Subtitle
       description: Parking.sg replaces parking coupons. Enter your vehicle number,
         select car park, and duration. Charges are calculated automatically and
         paid via card payment.
+      alt: Image alt text
+      image: /images/calculate_clear.png
+  - infopic:
+      title: Extend remotely
+      description: Parking.sg tracks your parking session, and sends notifications
+        before expiry. Extend your parking session conveniently without
+        returning to vehicle.
+      image: /images/extend_clear.png
+      alt: Image alt text
+  - infopic:
+      title: Get a refund
+      description: If you choose to end your parking session earlier, a refund
+        calculated on a per minute basis will be given.
+      image: /images/refund_clear.png
       alt: Image alt text
 ---
