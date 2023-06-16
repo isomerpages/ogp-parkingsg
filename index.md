@@ -36,7 +36,7 @@ sections:
       image: /images/calculate_clear.png
   - infopic:
       title: Extend remotely
-      description: Parking.sg tracks your parking session, and sends notifications
+      description: Parking.sg tracks your parking session and sends notifications
         before expiry. Extend your parking session conveniently without
         returning to vehicle.
       image: /images/extend_clear.png
