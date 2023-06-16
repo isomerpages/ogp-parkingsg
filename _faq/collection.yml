@@ -2,4 +2,5 @@ collections:
   faq:
     output: true
     order:
+      - Extend Session.md
       - Start Session.md
