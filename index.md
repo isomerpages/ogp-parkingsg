@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Parking.sg
       subtitle: Pay for parking using your mobile devices at all coupon parking
-        carparks.\n A collaboration between GovTech, URA and HDB
+        carparks. A collaboration between GovTech, URA and HDB
       background: /images/hero_small copy.jpg
       key_highlights:
         - title: app store
