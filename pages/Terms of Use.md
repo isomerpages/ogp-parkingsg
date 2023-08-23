@@ -562,7 +562,7 @@ These Terms of Use are dated 27 July 2023.
 ## SCHEDULE
 
 1. **Name of Service** : Parking.sg
-2. Nature of Service**
+2. **Nature of Service**
 
 a. This Service facilitates the paying of parking charges at selected public car
 parks in Singapore.
