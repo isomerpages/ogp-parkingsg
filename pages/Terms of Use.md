@@ -208,7 +208,8 @@ you; and
 &ensp;
 4.3.2.the terms of your agreement with the Third Party will govern your use of the
 relevant third party software or service, and not these Terms of Use.
-```
+
+
 4.4. If the Third Party Terms expressly or impliedly require GovTech to incorporate
 certain terms in these Terms of Use (inclusive of terms which impose any minimum
 or maximum standards herein, and/or terms described in Clause 4.5 below), such
@@ -292,7 +293,6 @@ GovTech or the Third Party.
 
 5B.3 In the event:
 
-```
 5B.3.1 you are, or likely to be, required by an order of court to disclose
 Confidential Information; or
 
