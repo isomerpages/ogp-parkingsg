@@ -4,7 +4,7 @@ title: Parking.sg
 description: Pay for parking using your mobile devices at all coupon parking car parks.
 image: /images/parking-logo-with-name-2.png
 permalink: /
-notification: ""
+notification: We are updating our Terrms of Use and Privacy Policy on  30 September 2023.
 sections:
   - hero:
       title: Parking.sg
