@@ -2,7 +2,9 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Government Agency Privacy Statement**
+### Government Agency Privacy Statement
+
+This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”).
 
 ###### General
 1. This is a Government agency digital service.
@@ -47,7 +49,7 @@ permalink: /privacy/
 8.  You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
 ###### Protection of data
-9.  To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+9. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 10.  The Service may contain links to external sites or services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites or services and encourage you to consult the privacy notices of those sites or services.
 
 ###### Contact information
