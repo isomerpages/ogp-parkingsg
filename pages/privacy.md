@@ -18,6 +18,7 @@ permalink: /privacy/
 4. For the avoidance of doubt, nothing in this Privacy Statement shall be construed as limiting or prejudicing our rights at law to collect, use or disclose any data without your consent or agreement.
 
 ###### Use of data
+
 5. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
 6. If you provide us with personal data, or where we collect personal data from you:
