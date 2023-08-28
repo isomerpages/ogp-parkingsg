@@ -53,9 +53,9 @@ permalink: /privacy/
 
 ###### Contact information
 
-10. .Please contact  if you:
+10. Please contact  if you:
 
-	10.1.have any enquires or feedback on our data protection policies and procedures; or
+	10.1. have any enquires or feedback on our data protection policies and procedures; or
 	
 	10.2 need more information on or access to data which you have provided to us directly in the past.
 
