@@ -557,7 +557,7 @@ prejudice GovTech’s right to a limitation defence and the period to exercise t
 right shall not be abridged by reason of any accrual of a limitation defence in
 favour of GovTech during the said period.
 
-These Terms of Use are dated 27 July 2023.
+These Terms of Use are dated 30 September 2023.
 
 ## SCHEDULE
 
