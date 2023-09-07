@@ -73,4 +73,4 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 	
 	b. Carpark information;
 	
-	c. Payment details.
+	c. Payment details
