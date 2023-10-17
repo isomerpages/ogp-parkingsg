@@ -336,27 +336,27 @@ programme or macro.
 limited to any direct or indirect, special or consequential damages, loss of
 income, revenue or profits, lost or damaged data, or damage to your
 computer, software or any other property, whether or not arising directly or
-indirectly from –**
+indirectly from**
 
 &ensp;
-**6.2.1.your access to or use of this Service, or any part thereof;**
+6.2.1.your access to or use of this Service, or any part thereof;
 
 &ensp;
-**6.2.2.any loss of access or use of this Service or any part of this Service,
-howsoever caused;**
+6.2.2.any loss of access or use of this Service or any part of this Service,
+howsoever caused;
 
 &ensp;
-**6.2.3.any inaccuracy or incompleteness in, or errors or omissions in the
-transmission of, the Service;**
+6.2.3.any inaccuracy or incompleteness in, or errors or omissions in the
+transmission of, the Service;
 
 
-**6.2.4.any delay or interruption in the transmission of the Service, whether
+6.2.4.any delay or interruption in the transmission of the Service, whether
 caused by delay or interruption in transmission over the internet or
-otherwise; or**
+otherwise; or
 
 &ensp;
-**6.2.5.any decision made or action taken by you or any third party in reliance
-upon the Service, regardless of whether GovTech has been advised of the possibility of such damage or loss.**
+6.2.5.any decision made or action taken by you or any third party in reliance
+upon the Service, regardless of whether GovTech has been advised of the possibility of such damage or loss.
 
 **6.3. Without prejudice and in addition to the foregoing, insofar as the Service
 facilitates or requires the provision, use or functioning of, or is provided in
