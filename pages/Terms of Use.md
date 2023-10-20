@@ -58,52 +58,52 @@ intended by GovTech.
 
 3.2A You shall not, and shall not authorise or permit any third party to:
 
-&ensp;
+ 
 3.2A.1 bypass or circumvent any technical restrictions or digital protection
 measures in the Service or attempt to circumvent any such restrictions;
 
-&ensp;
+ 
 3.2A.2. reverse engineer, decompile, disassemble, modify, translate, adapt or
 create derivative works of the Service (whether in relation to its source code,
 object code, underlying structure, ideas, algorithms or otherwise);
 
-&ensp;
+ 
 3.2A.3. reproduce, publish, distribute, transfer, publicly display, resell, rent, lease,
 or sublicense the Service, or loan, lend, pledge, assign, or otherwise encumber
 the Service to or in favour of any third party;
 
-&ensp;
+ 
 3.2A.4. remove or obscure the copyright, trademark and other proprietary notices
 contained on or in the Service;
 
-&ensp;
+ 
 3.2A.5. use the Service in any manner that is contrary to any applicable laws or
 regulations or rights of third parties (however arising and of whatever nature), or
 in a manner that constitutes harmful, fraudulent, or obscene activity;
 
-&ensp;
+ 
 3.2A.6. make the Service available in or through a network, file-sharing service,
 service bureau or any similar timesharing arrangement or as a managed service
 provider;
 
-&ensp;
+ 
 3.2A.7. perform any benchmarking tests or analyses of the Service;
 
-&ensp;
+ 
 3.2A.8. use the Service to create anything that would compete with the Service;
 
-&ensp;
+ 
 3.2A.9. transfer, assign or permit the sharing of license keys to or with a third
 party;
 
-&ensp;
+ 
 3.2A.10. use the Service to process or permit to be processed any code of a third
 party;
 
-&ensp;
+ 
 3.2A.11. provide third party access to the Service; or.
 
-&ensp;
+ 
 3.2A.12. export the Service in violation of any international sanctions or laws
 applicable to US entities.
 
@@ -111,14 +111,14 @@ applicable to US entities.
 
 3.3. GovTech reserves the right to:
 
-&ensp;
+ 
 3.3.1.Update or modify this Service from time to time;
 
-&ensp;
+ 
 3.3.2.Deny or restrict access to or use of the Service by any particular person
 without ascribing any reasons whatsoever; and
 
-&ensp;
+ 
 3.3.3.Discontinue or terminate this Service at any time without notice or liability
 to you whatsoever, whereupon all rights granted to you hereunder shall also
 terminate forthwith. You shall further upon notice from GovTech return or destroy all copies of the Service or materials therein that you may have
@@ -199,14 +199,14 @@ Third Party, then you unconditionally agree to enter into such agreement, and in
 any event, to be legally bound by the Third Party Terms. For the avoidance of
 doubt:
 
-&ensp;
-4.3.1.some Third Party Terms (particularly open-source terms) permit either a
+ 
+4.3.1. some Third Party Terms (particularly open-source terms) permit either a
 direct licence to you from the Third Party or a sublicence from GovTech to
 you. In such cases, your licence is a direct licence from the Third Party to
 you; and
 
-&ensp;
-4.3.2.the terms of your agreement with the Third Party will govern your use of the
+ 
+4.3.2. the terms of your agreement with the Third Party will govern your use of the
 relevant third party software or service, and not these Terms of Use.
 
 
@@ -296,11 +296,11 @@ GovTech or the Third Party.
 5B.3.1 you are, or likely to be, required by an order of court to disclose
 Confidential Information; or
 
-&ensp;
+ 
 5B.3.2 you have reasonable grounds to suspect the unauthorised use or
 disclosure or reproduction of Confidential Information;
 
-&ensp;
+ 
 you shall immediately notify GovTech or the Third Party of the same and cooperate
 with GovTech or the Third Party to prevent or limit such disclosure.
 
@@ -318,13 +318,13 @@ statutory warranties of any kind to you or any third party, whether arising
 from usage or custom or trade or by operation of law or otherwise, including
 but not limited to any representations or warranties:**
 
-&ensp;
+ 
 6.1.1. as to the accuracy, completeness, correctness, currency, timeliness,
 reliability, availability, interoperability, security, non-infringement,
 title, merchantability, quality or fitness for any particular purpose of
 the Service; and/or
 
-&ensp;
+ 
 6.1.2. that the Service or any functions associated therewith will be
 uninterrupted or error-free, or that defects will be corrected or
 that this Service, website and the server are and will be free of all
@@ -338,14 +338,14 @@ income, revenue or profits, lost or damaged data, or damage to your
 computer, software or any other property, whether or not arising directly or
 indirectly from**
 
-&ensp;
+ 
 6.2.1.your access to or use of this Service, or any part thereof;
 
-&ensp;
+ 
 6.2.2.any loss of access or use of this Service or any part of this Service,
 howsoever caused;
 
-&ensp;
+ 
 6.2.3.any inaccuracy or incompleteness in, or errors or omissions in the
 transmission of, the Service;
 
@@ -354,7 +354,7 @@ transmission of, the Service;
 caused by delay or interruption in transmission over the internet or
 otherwise; or
 
-&ensp;
+ 
 6.2.5.any decision made or action taken by you or any third party in reliance
 upon the Service, regardless of whether GovTech has been advised of the possibility of such damage or loss.
 
@@ -401,14 +401,14 @@ taken by GovTech.
 
 6.7. Without prejudice and in addition to GovTech’s other rights:
 
-&ensp;
+ 
 6.7.1.in no event shall GovTech’s total cumulative liability arising out of or in
 connection with these Terms of Use to you exceed the amount of fees or
 payment received by GovTech (and not paid or given to any Third Party by
 GovTech) from you for the Service in the 12 months preceding the date of
 the first cause of action; and
 
-&ensp;
+ 
 6.7.2.no action may be brought by you against GovTech arising out of or in
 connection with these Terms of Use more than one (1) year after the cause
 of action arose.
@@ -435,7 +435,7 @@ must immediately discontinue linking to or framing of any part of the Service.
 
 7.3. GovTech reserves all rights:
 
-&ensp;
+ 
 7.3.1. to disable any links to, or frames of, any materials which are unauthorised
 (including without limitation materials which imply endorsement by or
 association or affiliation with GovTech, materials containing inappropriate,
@@ -443,7 +443,7 @@ profane, defamatory, infringing, obscene, indecent or unlawful topics,
 names, or information that violates any written law, any applicable
 intellectual property, proprietary, privacy or publicity rights); and
 
-&ensp;
+ 
 7.3.2.to disclaim responsibility and/or liability for materials that link to or frame
 any part of the Service.
 
@@ -565,8 +565,7 @@ These Terms of Use are dated 30 September 2023.
 2. **Nature of Service**
 
 a. This Service facilitates the paying of parking charges at selected public car
-parks in Singapore.
-
+parks in Singapore.<br>
 b. GovTech **DOES NOT** provide, own or operate the car parks. The selected
 public car parks are owned and operated by the Urban Redevelopment
 Authority (“ **URA** ”) or the Housing and Development Board (“ **HDB** ”), as the
@@ -574,31 +573,17 @@ case may be. When making payment through this Service, you are making
 payment to URA/HDB. Once you have activated a parking session through
 the Service, you have confirmed that the details keyed in are accurate and
 shall have no right to any refund or cancellation thereafter. Please direct all
-issues concerning parking, refunds or cancellations to URA or HDB.
-
+issues concerning parking, refunds or cancellations to URA or HDB..<br>
 c. The URA/HDB is NOT responsible for any loss or damage, howsoever
-caused, to any vehicle or the fittings or contents of any vehicle parked in any
-car park or any part of a road under the URA/HDB’s management.
-
-d. GovTech is **NOT** responsible for the fulfilment and quality of the car park
-services themselves.
-
+caused, to any vehicle or the fittings or contents of any vehicle parked in any car park or any part of a road under the URA/HDB’s management..<br>
+d. GovTech is **NOT** responsible for the fulfilment and quality of the car park services themselves. .<br>
 e. You may direct queries or feedback to feedback@parking.sg.
 
-**3. Third party software/services**
-
-a. Google’s Distribution Terms - https://play.google.com/about/developer-
-distribution-agreement.html
-
-
-b. Google’s privacy policy - (http://www.google.com/policies/privacy)
-
-c. Apple’s Distribution Terms - https://developer.apple.com/programs/terms/
-apple_developer_agreement.pdf
-
-d. Google Maps API (Terms of Service) – https://www.google.com/intl/en-GB/
-policies
-
+**3. Third party software/services**.<br>
+a. Google’s Distribution Terms - https://play.google.com/about/developer-distribution-agreement.html.<br>
+b. Google’s privacy policy - http://www.google.com/policies/privacy.<br>
+c. Apple’s Distribution Terms - https://developer.apple.com/programs/terms/apple_developer_agreement.pdf.<br>
+d. Google Maps API (Terms of Service) – https://www.google.com/intl/en-GB/policies.<br>
 e. Stripe Core Services - https://stripe.com/sg/legal
 
 **4. Special terms**
