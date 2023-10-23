@@ -112,14 +112,14 @@ applicable to US entities.
 3.3. GovTech reserves the right to:
 
  
-3.3.1.Update or modify this Service from time to time;
+3.3.1. Update or modify this Service from time to time;
 
  
-3.3.2.Deny or restrict access to or use of the Service by any particular person
+3.3.2. Deny or restrict access to or use of the Service by any particular person
 without ascribing any reasons whatsoever; and
 
  
-3.3.3.Discontinue or terminate this Service at any time without notice or liability
+3.3.3. Discontinue or terminate this Service at any time without notice or liability
 to you whatsoever, whereupon all rights granted to you hereunder shall also
 terminate forthwith. You shall further upon notice from GovTech return or destroy all copies of the Service or materials therein that you may have
 been provided with.
@@ -294,15 +294,11 @@ GovTech or the Third Party.
 5B.3 In the event:
 
 5B.3.1 you are, or likely to be, required by an order of court to disclose
-Confidential Information; or
-
- 
+Confidential Information; or <br>
 5B.3.2 you have reasonable grounds to suspect the unauthorised use or
 disclosure or reproduction of Confidential Information;
 
- 
-you shall immediately notify GovTech or the Third Party of the same and cooperate
-with GovTech or the Third Party to prevent or limit such disclosure.
+you shall immediately notify GovTech or the Third Party of the same and cooperate with GovTech or the Third Party to prevent or limit such disclosure.
 
 5B.4 Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other
 rights at law.
@@ -339,20 +335,16 @@ computer, software or any other property, whether or not arising directly or
 indirectly from**
 
  
-6.2.1.your access to or use of this Service, or any part thereof;
+6.2.1. your access to or use of this Service, or any part thereof;
 
  
-6.2.2.any loss of access or use of this Service or any part of this Service,
-howsoever caused;
+6.2.2. any loss of access or use of this Service or any part of this Service, howsoever caused;
 
  
-6.2.3.any inaccuracy or incompleteness in, or errors or omissions in the
+6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the
 transmission of, the Service;
 
-
-6.2.4.any delay or interruption in the transmission of the Service, whether
-caused by delay or interruption in transmission over the internet or
-otherwise; or
+6.2.4. any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or otherwise; or
 
  
 6.2.5.any decision made or action taken by you or any third party in reliance
@@ -402,14 +394,14 @@ taken by GovTech.
 6.7. Without prejudice and in addition to GovTech’s other rights:
 
  
-6.7.1.in no event shall GovTech’s total cumulative liability arising out of or in
+6.7.1. in no event shall GovTech’s total cumulative liability arising out of or in
 connection with these Terms of Use to you exceed the amount of fees or
 payment received by GovTech (and not paid or given to any Third Party by
 GovTech) from you for the Service in the 12 months preceding the date of
 the first cause of action; and
 
  
-6.7.2.no action may be brought by you against GovTech arising out of or in
+6.7.2. no action may be brought by you against GovTech arising out of or in
 connection with these Terms of Use more than one (1) year after the cause
 of action arose.
 
@@ -444,7 +436,7 @@ names, or information that violates any written law, any applicable
 intellectual property, proprietary, privacy or publicity rights); and
 
  
-7.3.2.to disclaim responsibility and/or liability for materials that link to or frame
+7.3.2. to disclaim responsibility and/or liability for materials that link to or frame
 any part of the Service.
 
 
@@ -468,10 +460,10 @@ agencies.
 **10. Assignment**
 
 
-10.1.You may not assign or sub-contract this Terms of Use without the prior written
+10.1. You may not assign or sub-contract this Terms of Use without the prior written
 consent of GovTech.
 
-10.2.GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in
+10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in
 respect of the Service and this Terms of Use, without notifying you and without
 further reference to you. Your acceptance of this Terms of Use shall also constitute
 your consent to such assignment, novation, transfer or sub-contract.
@@ -541,13 +533,13 @@ above to arbitration administered by the Singapore International Arbitration Cen
 Rules** ") for the time being in force, which rules are deemed to be incorporated by
 reference in this clause. Further:
 
-11.3.1.The seat of the arbitration shall be Singapore.
+11.3.1. The seat of the arbitration shall be Singapore.
 
-11.3.2.The tribunal shall consist of one (1) arbitrator.
+11.3.2. The tribunal shall consist of one (1) arbitrator.
 
-11.3.3.The language of the arbitration shall be English.
+11.3.3. The language of the arbitration shall be English.
 
-11.3.4.All information, pleadings, documents, evidence and all matters relating to
+11.3.4. All information, pleadings, documents, evidence and all matters relating to
 the arbitration shall be confidential.
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days
@@ -557,7 +549,7 @@ prejudice GovTech’s right to a limitation defence and the period to exercise t
 right shall not be abridged by reason of any accrual of a limitation defence in
 favour of GovTech during the said period.
 
-These Terms of Use are dated 30 September 2023.
+These Terms of Use are dated 23 October 2023.
 
 ## SCHEDULE
 
@@ -580,11 +572,11 @@ d. GovTech is **NOT** responsible for the fulfilment and quality of the car park
 e. You may direct queries or feedback to feedback@parking.sg.
 
 **3. Third party software/services**.<br>
-a. Google’s Distribution Terms - https://play.google.com/about/developer-distribution-agreement.html.<br>
-b. Google’s privacy policy - http://www.google.com/policies/privacy.<br>
-c. Apple’s Distribution Terms - https://developer.apple.com/programs/terms/apple_developer_agreement.pdf.<br>
-d. Google Maps API (Terms of Service) – https://www.google.com/intl/en-GB/policies.<br>
-e. Stripe Core Services - https://stripe.com/sg/legal
+a. [Google’s Distribution Terms](https://play.google.com/about/developer-distribution-agreement.html)  
+b. [Google’s privacy policy](http://www.google.com/policies/privacy)  
+c. [Apple’s Distribution Terms](https://developer.apple.com/programs/terms/apple_developer_agreement.pdf)  
+d. [Google Maps API (Terms of Service)](https://www.google.com/intl/en-GB/policies)  
+e. [Stripe Core Services](https://stripe.com/sg/legal)
 
 **4. Special terms**
 
